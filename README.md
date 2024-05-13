@@ -8,6 +8,13 @@
 - B.S., Public Relations | University of Colorado, Boulder (_Dec 2022_)
 
 
+## Certificates
+- Becoming a Hyperledger Aries Developer | The Linux Foundation (_Aug 2023_)
+- Introduction to Hyperledger Self-Sovereign Identity Blockchain Solutions | The Linux Foundation (_Jul 2023_)
+- Financial Markets (with Honors) | Yale School of Management (_Dec 2022_)
+- The Science of Well-Being | Yale University (_Jun 2020_)
+
+
 ## Experience
 **Associate Developer: Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
 - Conducted data analytics research and prototype development for program management decision aids in the
