@@ -3,6 +3,7 @@
 ## Education
 Information Science, MS | University of Colorado, Boulder (_May 2024_)
 Information Science, BS | University of Colorado, Boulder (_May 2023_)
+
 Public Relations, BS | University of Colorado, Boulder (_Dec 2022_)
 
 
