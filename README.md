@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, Tableau, R, Hyperledger framework
+#### Technical Skills: Python, Tableau, R, Hyperledger framework, Microsoft Excel
 
 ## Education
 - M.S., Information Science | University of Colorado, Boulder (_May 2024_)
