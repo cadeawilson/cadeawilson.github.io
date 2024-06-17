@@ -1,4 +1,4 @@
-# Data Scientist
+# Network Scientist
 
 #### Technical Skills: Python, Tableau, R, Hyperledger framework, Microsoft Excel
 
