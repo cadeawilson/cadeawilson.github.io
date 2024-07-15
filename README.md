@@ -1,6 +1,6 @@
 # Network Scientist
 
-#### Technical Skills: Python, Tableau, R, Hyperledger framework, Microsoft Excel
+#### Technical Skills: Python (including Selenium, Pandas, Numpy, Scipy, Sklearn, Keras, Tensorflow, Matplotlib, Seaborn, Plotly, etc.), R, Tableau, Blockchain (Hyperledger)/Web3 Usage and Analysis, Microsoft Excel, Data Visualization, Natural Language Processing (NLP), Machine Learning
 
 ## Education
 - M.S., Information Science | University of Colorado, Boulder (_May 2024_)
@@ -17,24 +17,18 @@
 
 ## Experience
 **Associate Developer: Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
-- Conducted data analytics research and prototype development for program management decision aids in the
-context of the DoD Small Business Innovation Research program
-- Worked with generative AI solutions and localized LLMs with a focus on security
+- Conducted data analytics research and prototype development for the DoD SBIR program
+- Worked on generative AI solutions and localized LLMs with a focus on security
 - Blockchain solutions developer (Linux Foundation Hyperledger framework certification)
 
 **Data Research Analyst: COLUMN Lab (University of Colorado, Boulder)** (_Mar 2022 - May 2024_)
-- Conducted a cross-platform exploratory analysis of cryptocurrencies and their differing responses to market shock events in the recent years of crypto booms and busts; this served as a master’s thesis under Dr. Brian Keegan's mentorship
+- Conducted post-mortem analysis of cryptocurrencies using web data science techniques
 - Analyzed projects on the GameStop NFT Marketplace to compare traditional PR marketing tactics to those used in decentralized marketplaces
 
 **PR Strategist Freelancer: Imagination Videobooks/Storybooks** (_August 2022 – Dec 2022_)
-- Worked in a four-person team to create a public relations plan for a local non-profit organization which makes
-children’s books more accessible to those who are deaf or blind; the organization is currently using that public
-relations plan in their business model
-- Collected and analyzed data relating to Colorado elementary schools’ demographics in order to determine which
-could best be impacted by the non-profit’s product and brand
-- Ideated novel ways for the non-profit to market themselves through partnering with schools with elevated 504
-plan and special education populations. This was done in order to reach a wider audience and raise more money
-through kickstarters and other means of fundraising
+- Developed a public relations plan for a local non-profit organization
+- Collected and analyzed data on Colorado elementary schools’ demographics
+- Proposed novel marketing strategies to raise funds through partnerships and schools
 
 **Fundraising Chair: Phi Sigma Pi Honors Fraternity** (_August 2020 – May 2022_)
 - Organized activities and events for the fraternity to raise funds
