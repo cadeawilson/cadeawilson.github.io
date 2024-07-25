@@ -7,7 +7,7 @@
 - B.S., Information Science | University of Colorado, Boulder (_May 2023_)
 - B.S., Public Relations | University of Colorado, Boulder (_Dec 2022_)
 
-**Paid Student Roles, University of Colorado - Boulder** (_August 2020 - May 2024_)
+**Paid Student Roles, University of Colorado - Boulder** (_Aug 2020 - May 2024_)
 - Employed as a grader for three upper division undergraduate courses focused on data visualization/storytelling and data mining using Python with 40-60 students each
 - Employed as a Learning Assistant using pedagogical techniques to create an effective learning environment for 66
 college freshmen, created and executed lesson plans to teach a course recitation covering key principles of communication, information, and media for interdisciplinary project development 
