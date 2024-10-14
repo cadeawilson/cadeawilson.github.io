@@ -2,6 +2,7 @@
 
 ## Education
 - M.S., Information Science | University of Colorado, Boulder (_May 2024_)
+_Activities_: Graduate Student Association Master's Representative
 - B.S., Information Science | University of Colorado, Boulder (_May 2023_)
 _Awards_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
 - B.S., Public Relations | University of Colorado, Boulder (_Dec 2022_)
