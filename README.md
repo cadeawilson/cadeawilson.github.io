@@ -6,7 +6,10 @@ _Activities_: Graduate Student Association Master's Representative
 - B.S. Information Science | University of Colorado, Boulder (_May 2023_)
 _Awards_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
 - B.S. Public Relations | University of Colorado, Boulder (_Dec 2022_)
-_Awards_: Graduated with distinction, Dean's List 
+_Awards_: Graduated with distinction, Dean's List
+
+_What is Information Science?_
+The degree in Information Science focuses on the relationship between people, technology, and the places where they interact. This interdisciplinary program combines elements from social science, computer science, and humanities to equip students with both the conceptual knowledge and technical skills needed to design and understand technology that shapes the way we work, communicate, and create. There is a large focus to analyze data, imagine technological possibilities, and create innovative solutions that positively impact the world. Areas of study include data science, human-computer interaction, information visualization, machine learning, technology ethics, and health informatics. With a strong emphasis on diversity, equity, and inclusion, the program also explores the social implications of technology, preparing students to develop tech solutions that reflect these values.
 
 
 ## Certificates
