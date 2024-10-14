@@ -1,19 +1,15 @@
-# Network Scientist
-
-#### Technical Skills: Python (including Selenium, Pandas, Numpy, Scipy, Sklearn, Keras, Tensorflow, Matplotlib, Seaborn, Plotly, etc.), R, Tableau, Blockchain (Hyperledger)/Web3 Usage and Analysis, Microsoft Excel, Data Visualization, Natural Language Processing (NLP), Machine Learning
+# Data Analyst
 
 ## Education
 - M.S., Information Science | University of Colorado, Boulder (_May 2024_)
 - B.S., Information Science | University of Colorado, Boulder (_May 2023_)
+_Awards_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
 - B.S., Public Relations | University of Colorado, Boulder (_Dec 2022_)
-
-**Paid Student Roles, University of Colorado - Boulder** (_Aug 2020 - May 2024_)
-- Employed as a grader for three upper division undergraduate courses focused on data visualization/storytelling and data mining using Python with 40-60 students each
-- Employed as a Learning Assistant using pedagogical techniques to create an effective learning environment for 66
-college freshmen, created and executed lesson plans to teach a course recitation covering key principles of communication, information, and media for interdisciplinary project development 
+_Awards_: Graduated with distinction, Dean's List 
 
 
 ## Certificates
+- Certified in Planning and Inventory Management (CPIM) | Association for Supply Chain Management (ASCM) (_In Progress_)
 - Becoming a Hyperledger Aries Developer | The Linux Foundation (_Aug 2023_)
 - Introduction to Hyperledger Self-Sovereign Identity Blockchain Solutions | The Linux Foundation (_Jul 2023_)
 - Financial Markets (with Honors) | Yale School of Management (_Dec 2022_)
@@ -21,44 +17,139 @@ college freshmen, created and executed lesson plans to teach a course recitation
 
 
 ## Experience
-**Associate Developer: Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
-- Conducted data analytics research and prototype development for the DoD SBIR program
-- Worked on generative AI solutions and localized LLMs with a focus on security
-- Blockchain solutions developer (Linux Foundation Hyperledger framework certification)
 
-**Data Research Analyst: COLUMN Lab (University of Colorado, Boulder)** (_Mar 2022 - May 2024_)
-- Conducted post-mortem analysis of cryptocurrencies using web data science techniques
-- Analyzed projects on the GameStop NFT Marketplace to compare traditional PR marketing tactics to those used in decentralized marketplaces
+**Graduate Research Assistant: Colorado Laboratory for Users, Media, and Networks (University of Colorado, Boulder)** (_Mar 2022 - May 2024_)
+- Conducted multi-platform, multi-coin analysis of 7 cryptocurrencies during market shocks using Python. Insights were utilized to propose broader research methodologies and refine predictive models for cryptocurrency market dynamics.  
+- Utilized data mining and network analysis on GameStop’s NFT Marketplace, producing an exploratory study on PESO marketing models versus decentralized tactics, leading to insights on consumer behavior in decentralized markets.
+  
+**Developer (Intern): Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
+- Conducted in-depth market research for the DoD Small Business Innovation Research (SBIR) program, identifying key opportunities for enhancing secure data transmission, influencing R&D focus.
+- Developed localized large language models (LLMs) using Python, streamlining Air Force maintenance tasks by integrating PDFs into a custom UI, capable of a 20-60% reduction in task completion time.  
+- Designed a blockchain network prototype using Hyperledger and Go, facilitating secure data transmission between drones and operators via CLI, in collaboration with Microsoft and IBM partners.
 
-**PR Strategist Freelancer: Imagination Videobooks/Storybooks** (_August 2022 – Dec 2022_)
-- Developed a public relations plan for a local non-profit organization
-- Collected and analyzed data on Colorado elementary schools’ demographics
-- Proposed novel marketing strategies to raise funds through partnerships and schools
+**Public Relations Strategist (Intern): Imagination Videobooks/Storybooks** (_August 2022 – Dec 2022_)
+- Developed and executed a comprehensive PR plan, leveraging traditional and digital PR strategies, to expand the outreach of a local non-profit supporting inclusive reading tools.  
+- Conducted demographic analysis using Python and Tableau, identifying 13 schools with high target populations, leading to increased outreach efforts for potential partnerships.
 
-**Fundraising Chair: Phi Sigma Pi Honors Fraternity** (_August 2020 – May 2022_)
-- Organized activities and events for the fraternity to raise funds
-- Communicated with venues and the University in order to book spaces
-- Tracked and managed the fraternity’s finances, ensuring each chair and committee had an appropriate budget for
-the semester
+_Student Roles_
+
+**Grader: University of Colorado, Boulder** (_Sep 2023 - May 2024_)
+- Graded assignments for three upper-division classes (data visualization, data mining in Python) with 40-60 students, providing detailed feedback to enhance students' technical skills and understanding.
+
+**Learning Assistant: University of Colorado, Boulder** (_Apr 2021 - Dec 2021_)
+- Applied active learning techniques and facilitated group discussions to improve understanding of key concepts for 66 freshman students
+- Led discussions on communication, information science, media studies, and journalism, helping students critically analyze course material and apply concepts to real-world scenarios.
 
 
 ## Projects
 ### Information Science Master's Thesis: Beyond the Ledger: A Cross-Platform Analysis of Cryptocurrency Dynamics (_2024_)
 [Thesis](assets/pdf/MSThesis-WILSON.pdf)
 
-Utilizing advanced statistical methods, including Granger causality tests and correlation matrices, my thesis explores the interconnected dynamics within the cryptocurrency ecosystem across multiple platforms such as Reddit, Discord, and GitHub. The study investigates how these platforms influence cryptocurrency market behaviors and technological development, highlighting the critical role of community interaction in shaping market dynamics. Through a detailed analysis of significant market events like the Ethereum Merge and the FTX collapse, the research examines their impacts on cryptocurrency prices, community engagement, and technological trends. Key findings reveal that platforms like Reddit drive market speculation, Discord supports real-time community interaction, and GitHub mirrors long-term development efforts which differ from social and market trends. The study also highlights the importance of cross-platform dynamics, showing how information flows across these spaces can significantly impact market and development priorities. This thesis contributes to a deeper understanding of the socio-technical interplay within the cryptocurrency market, offering valuable insights for investors, developers, and researchers navigating this volatile and rapidly evolving field.
+This thesis explores the intricate dynamics between major cryptocurrencies and online platforms, focusing on how development, community activity, and market trends intersect. By collecting and analyzing data across platforms like GitHub, Reddit, and Discord, the project delves into how these platforms shape the development and social sentiment of cryptocurrencies such as Bitcoin, Ethereum, Solana, and Dogecoin. It also evaluates how market shocks, such as the Ethereum Merge and FTX collapse, impact these interactions and drive community and developer behavior.
+
+Methodology:
+- Data Collection: Historical cryptocurrency price data was gathered alongside GitHub commits, Reddit posts, and Discord messages. This cross-platform data was integrated to build a comprehensive view of how social and technical elements interact.
+  - Reddit and Discord: Data was collected from Reddit and Discord communities to assess sentiment and activity levels around major market events.
+  - GitHub: Commit metadata (timestamps, messages) from the major repositories of top cryptocurrencies was gathered using GitHub’s API to analyze developer contributions.
+- Statistical Analysis: Granger causality tests and correlation matrices were applied to uncover patterns and predictive relationships between platform activity and cryptocurrency price movements. Market events, such as the Ethereum Merge, were also examined to see their influence across platforms.
+- Visualization: Various visual representations (time-series plots, correlation heatmaps) were created using Python libraries to depict the interaction between price data, developer activity, and community discussions.
+
+Findings: The study uncovered significant insights into how different platforms drive cryptocurrency dynamics:
+- Reddit: Primarily a platform for speculation, Reddit activity was found to correlate with short-term market movements, particularly during significant events such as price spikes or crashes.
+- Discord: Real-time discussions on Discord surged during market shocks, such as the FTX collapse, indicating the platform's role as a space for immediate community interaction during crises.
+- GitHub: Development trends on GitHub reflected longer-term project evolution and stability, showing less volatility compared to Reddit and Discord.
+
+The analysis also revealed that while Bitcoin operates somewhat independently of other cryptocurrencies, altcoins such as Ethereum, Solana, and Cardano are more intertwined with platform activity and market trends.
+
+Conclusion: This project illustrates the complex socio-technical ecosystem of cryptocurrencies, demonstrating how market shocks can amplify cross-platform dynamics. The findings show that Reddit and Discord play critical roles in influencing market sentiment and behavior, while GitHub remains a space for long-term development activity. Understanding these dynamics provides a nuanced view of how information and development flow within the decentralized blockchain environment.
+
+Skills Highlighted:
+- Cross-platform data analysis
+- Time series and causal analysis
+- Cryptocurrency market dynamics
+- Data collection via APIs (Reddit, Discord, GitHub)
+- Python programming (Pandas, Numpy, Matplotlib)
+- Visualization of complex datasets
 
 ### Exploratory Text Mining using Machine Learning: Security and Ethical Implications of Blockchain Technology (_2024_)
 [Project Website](https://sites.google.com/colorado.edu/blockchain-text-mining/home)
 
-This project driven by textual data delves into the security and ethical aspects of blockchain technology, highlighting its applications beyond just cryptocurrencies and its relevance in various industries such as finance, healthcare, and supply chains; the project outlines the divisive nature of blockchain around issues of centralization versus decentralization and discusses the complexity and perceived risks associated with recent market fluctuations. Through textual analysis of public sentiment across platforms like NewsAPI, Reddit, and Medium, the study finds that discussions are generally neutral and often focus on blockchain's financial applications, with varying discourse across platforms: NewsAPI emphasizes broader financial technology, Reddit concentrates on investment themes, and Medium leans towards futurism and academia. The presentation demonstrates the importance of community engagement due to blockchain's open-source nature and concludes that while the overall sentiment towards blockchain is neutral, there is a significant need for greater understanding, adoption, and regulation to navigate its complexities.
+This project focuses on the application of text mining and machine learning techniques to analyze public sentiment around blockchain technology across multiple platforms, including NewsAPI, Reddit, and Medium. The primary goal was to understand the nuanced opinions, trends, and concerns associated with blockchain by extracting and interpreting text data from these platforms. Advanced Natural Language Processing (NLP) models were employed to uncover patterns in the discussions, providing insights into the evolving public discourse on blockchain technology.
+
+Methodology:
+- Data Collection: The text data was gathered from NewsAPI, Reddit, and Medium using APIs and web scraping. The data included articles, posts, and discussions centered around blockchain topics. Titles, comments, and full-text descriptions were collected and processed.
+- Data Preprocessing: The data underwent preprocessing steps such as lemmatization, stemming, and tokenization to clean and standardize it for further analysis. Stop words were removed, and text was transformed into numerical formats using count vectorization and TF-IDF techniques.
+- Machine Learning Models:
+  - Latent Dirichlet Allocation (LDA): Used for topic modeling to identify major themes and trends within blockchain discussions on each platform​
+  - Sentiment Analysis with SVMs and Naïve Bayes: Supervised models like Support Vector Machines (SVMs)​ and Naïve Bayes​ were trained to classify sentiments as positive, neutral, or negative.
+  - Decision Trees: Decision Trees were implemented to classify and analyze the features contributing most to sentiment predictions, providing an interpretable model for sentiment categorization​
+  - Clustering (K-Means and Hierarchical): Unsupervised clustering methods were used to discover patterns in the text data, revealing how different clusters of blockchain-related discussions formed across platforms​
+  - Association Rule Mining (ARM): Apriori algorithms were applied to discover relationships between common terms in discussions, offering insights into frequently co-occurring terms in blockchain-related topics​
+- Visualization & Evaluation: Results were visualized using bar charts, dendrograms, and confusion matrices to assess model performance and interpret the findings.
+
+Findings:
+- Sentiment Insights: Analysis revealed that discussions around blockchain across all platforms were dominated by financial and technological themes, with a significant portion of the discourse focused on cryptocurrency, blockchain security, and future technological applications. Reddit and Medium discussions showed more polarized sentiments (both highly positive and negative), while news articles remained more neutral​
+- Topic Modeling: LDA uncovered recurring themes such as ‘cryptocurrency,’ ‘investment,’ ‘security,’ and ‘smart contracts,’ highlighting that discussions are often centered around blockchain's financial and developmental impact​
+- Clustering: K-means and hierarchical clustering revealed that Reddit discussions were more fragmented into specific subtopics compared to NewsAPI and Medium, where broader themes emerged​
+- Association Rules: ARM identified strong associations between blockchain-specific terms such as 'halving' and 'bitcoin,' and 'smart' and 'contract,' providing insights into the key drivers of blockchain discussions across platforms​
+
+Conclusion: The Blockchain Text Mining project provided valuable insights into public discourse surrounding blockchain technology. By analyzing sentiment, identifying major topics, and discovering patterns in textual data, the project offers a comprehensive understanding of how blockchain is perceived across different online platforms. The results emphasize the importance of monitoring and interpreting public sentiment in shaping the future of blockchain technology, particularly in terms of investment, regulation, and security concerns.
+
+Skills Highlighted:
+- Text mining and Natural Language Processing (NLP)
+- Machine learning for sentiment analysis and clustering
+- Data visualization and interpretation
+- Python (Numpy, Pandas, Scikit-learn, NLTK)
+- Data collection via APIs and web scraping (NewsAPI, Reddit, Medium)
 
 ### Web Data Science Analysis: Exploring the Correlation Between Cryptocurrency Price Fluctuations and GitHub Commits (_2023_)
 [Paper](assets/pdf/WebDataScience-WILSON.pdf)
 
-This research investigates the dynamic relationship between market fluctuations in cryptocurrency prices and the frequency of development activities as recorded by GitHub commits. Employing a methodical data collection process via Yahoo Finance and GitHub API, I meticulously gathered and analyzed a year's worth of cryptocurrency pricing data alongside corresponding GitHub commit logs. This study primarily focused on understanding whether changes in cryptocurrency prices acted as a catalyst or deterrent for developer contributions across various blockchain projects. The research utilized sophisticated statistical methods to probe into these correlations, ultimately revealing a negligible link between the two, as evidenced by an exceptionally low R-squared value. These findings highlight the complex and seemingly independent nature of market forces and developer activity within the decentralized frameworks of cryptocurrency ecosystems, contributing to the broader discourse on how technological and market dynamics interplay in this rapidly evolving field.
+This project investigates the relationship between cryptocurrency price volatility and the corresponding level of developer activity on GitHub. The core objective was to analyze how daily market price fluctuations impact the frequency of code contributions within open-source blockchain ecosystems, focusing on popular cryptocurrencies such as Bitcoin, Ethereum, Solana, and Cardano. By collecting and analyzing data over a one-year period (2022-2023), the study aimed to identify whether market instability influences developer engagement in these decentralized networks.
+
+The project utilized a dual data collection approach:
+- Cryptocurrency Pricing Data: Using Selenium for web automation, daily historical price data (open, high, low, close, adjusted close, and volume) was gathered from Yahoo Finance for each cryptocurrency in the study.
+- Developer Activity Data: GitHub’s API was employed to extract commit history metadata (timestamps, messages) from each cryptocurrency’s primary repository.
+
+Methodology:
+- Data Collection: Python-based web scraping (Selenium) and API integration (GitHub) were utilized to gather pricing and commit data over the selected one-year period.
+- Statistical Analysis: Linear regression models and time-series analyses were applied to examine potential correlations between daily price fluctuations and developer activity.
+- Visualizations: Data trends were depicted through graphical outputs, highlighting key price movements and commit frequency.
+
+Findings: Despite initial hypotheses suggesting that price volatility could either catalyze or deter developer activity, the analysis revealed no significant correlation between market price fluctuations and GitHub commit activity. The regression model showed an extremely low R-squared value (0.001), indicating that only 0.1% of commit frequency variation could be explained by changes in cryptocurrency prices. Further statistical tests also supported the conclusion that daily price movements do not predict changes in developer activity.
+
+Conclusion: The project demonstrates that developer activity in the cryptocurrency space is largely unaffected by short-term market price volatility, suggesting that the motivations and workflows of open-source contributors are insulated from immediate market speculation. While the findings indicate a weak link between prices and commit activity, the study opens pathways for future research to examine other factors influencing blockchain development.
+
+Skills Highlighted:
+- Web data scraping (Selenium)
+- API integration (GitHub)
+- Data analysis and visualization (Pandas, Matplotlib)
+- Linear regression and time-series analysis
+- Python programming (Numpy, Scipy, Sklearn)
 
 ### COLUMN Lab Research: Decentralized Markets Versus the PESO Model (_2022_)
 [Paper](assets/pdf/GameStopNFTMarketEDA-WILSON.pdf)
 
-This study analyzes the effectiveness of traditional marketing frameworks in decentralized marketplaces, focusing on the now defunct GameStop NFT Marketplace. Utilizing social media mining techniques on platforms like Twitter and Discord, this project assesses the marketing approaches of NFT projects CYBER CREW and MetaBoy, emphasizing the shift from Paid, Earned, Shared, and Owned (PESO) media tactics to a model prioritizing Shared and Owned (SO) media due to the decentralized nature of the market. The research highlights that the traditional PESO model, which prioritizes paid media, does not suit the nuances of decentralized markets where community-driven and directly controlled media have greater impact. The research proposes an adapted SOE model, stressing the significance of shared and owned media in generating consumer interest and driving engagement in a blockchain-based marketplace, aligning better with current consumer behavior and technological interaction in decentralized finance.
+This project examines the application and limitations of traditional marketing models, particularly the PESO Model (Paid, Earned, Shared, Owned), within decentralized markets. Focusing on the GameStop NFT Marketplace, which launched in July 2022, this exploratory data analysis (EDA) investigates the effectiveness of various marketing tactics used by NFT projects like MetaBoy and CYBER CREW [C4]. By analyzing social media activity on Twitter and Discord, the study aims to uncover how decentralized marketing frameworks diverge from traditional ones and whether the PESO Model requires adaptation in these new digital environments.
+
+Methodology:
+- Data Collection: Using Twitter API v2 and DiscordChatExporter, social media data was collected from the Twitter accounts and Discord servers of two NFT projects: MetaBoy and CYBER CREW [C4]. Metrics such as tweet engagement (retweets, favorites) and Discord activity (unique message authors, total messages) were gathered and organized into CSV files for analysis.
+- Data Cleaning & Preparation: Tableau Prep was used to clean the datasets, organizing the data by date and engagement metrics.
+- Analysis & Visualization: In Tableau Desktop, the data was visualized to compare Twitter and Discord engagement trends. Bar charts were used to depict retweets, favorites, and overall message volume over time, allowing cross-platform comparisons of activity.
+
+Case Studies:
+- MetaBoy: A collection of 10,000 NFTs that launched on the GameStop Marketplace in July 2022. MetaBoy used a highly successful marketing strategy centered around giveaways of rare assets, which incentivized users to engage with the brand through social media. MetaBoy funneled users into its Discord server for deeper community engagement, resulting in a significant growth in community size and activity.
+- CYBER CREW [C4]: This project took a slightly different approach, emphasizing asset utility and partnering with other creators for cross-promotion. CYBER CREW also used giveaways and social media to generate hype but focused on building a unique brand personality through user-generated content and consistent community engagement on Discord.
+
+Findings:
+- Shared and Owned Media Dominance: Both MetaBoy and CYBER CREW [C4] relied heavily on shared and owned media (Twitter and Discord) for their marketing success, without any significant use of paid advertising. This finding challenges the traditional PESO Model, which prioritizes paid advertising, by showing that shared and owned media are more critical in decentralized markets.
+- Successful Tactics: Giveaways, asset teasers, highlighting utility, and user-generated content were the most successful tactics for engaging the community. Discord engagement often spiked following high-impact tweets or announcements, confirming the importance of cross-platform synergy in decentralized marketing efforts.
+
+Conclusion: The project reveals that the PESO Model, as traditionally applied, is outdated for decentralized markets like the GameStop NFT Marketplace. Instead, a revised framework—an SOE (Shared, Owned, Earned) Model—should be adopted, where shared and owned media are prioritized. This EDA shows that decentralized marketing thrives on community engagement, hype generation, and direct consumer interactions through social platforms. Brands and projects in decentralized markets should focus on leveraging shared and owned media to maximize their impact.
+
+Skills Highlighted:
+- Data collection via APIs (Twitter, Discord)
+- Social media analysis
+- Data visualization (Tableau)
+- Exploratory data analysis (EDA)
+- Marketing strategy evaluation for decentralized platforms
