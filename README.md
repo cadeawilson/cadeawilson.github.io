@@ -11,10 +11,10 @@ _Awards_: Graduated with distinction, Dean's List
 
 ## Certificates
 - Certified in Planning and Inventory Management (CPIM) | Association for Supply Chain Management (ASCM) (_In Progress_)
-- Becoming a Hyperledger Aries Developer | The Linux Foundation (_Aug 2023_)
-- Introduction to Hyperledger Self-Sovereign Identity Blockchain Solutions | The Linux Foundation (_Jul 2023_)
-- Financial Markets (with Honors) | Yale School of Management (_Dec 2022_)
-- The Science of Well-Being | Yale University (_Jun 2020_)
+- [Becoming a Hyperledger Aries Developer](https://courses.edx.org/certificates/e241341666264fcf8ac11ee9c57941e5) | The Linux Foundation (_Aug 2023_)
+- [Introduction to Hyperledger Self-Sovereign Identity Blockchain Solutions](https://courses.edx.org/certificates/80f37e43839f49119ecca06cb0ec8f88) | The Linux Foundation (_Jul 2023_)
+- [Financial Markets (with Honors)](https://www.coursera.org/account/accomplishments/certificate/WWA8HC8A6M2N) | Yale School of Management (_Dec 2022_)
+- [The Science of Well-Being](https://www.coursera.org/account/accomplishments/certificate/YVJMVX74S9VA) | Yale University (_Jun 2020_)
 
 
 ## Experience
