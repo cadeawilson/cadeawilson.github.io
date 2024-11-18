@@ -2,11 +2,11 @@
 
 ## Education
 - M.S. Information Science | University of Colorado, Boulder (_May 2024_)
-_Activities_: Graduate Student Association Master's Representative
+_Honors_: Graduate Student Association Master's Representative
 - B.S. Information Science | University of Colorado, Boulder (_May 2023_)
-_Awards_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
+_Honors_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
 - B.S. Public Relations | University of Colorado, Boulder (_Dec 2022_)
-_Awards_: Graduated with distinction, Dean's List
+_Honors_: Graduated with distinction, Dean's List
 
 _What is Information Science?_
 
@@ -15,8 +15,8 @@ Information Science is an interdisciplinary program combining elements from soci
 
 ## Certificates
 - Certified in Planning and Inventory Management (CPIM) | Association for Supply Chain Management (ASCM) (_In Progress_)
-- [Becoming a Hyperledger Aries Developer](https://courses.edx.org/certificates/e241341666264fcf8ac11ee9c57941e5) | The Linux Foundation (_Aug 2023_)
-- [Introduction to Hyperledger Self-Sovereign Identity Blockchain Solutions](https://courses.edx.org/certificates/80f37e43839f49119ecca06cb0ec8f88) | The Linux Foundation (_Jul 2023_)
+- [Hyperledger Aries Developer Certification](https://courses.edx.org/certificates/e241341666264fcf8ac11ee9c57941e5) | The Linux Foundation (_Aug 2023_)
+- [Hyperledger Self-Sovereign Identity Certification](https://courses.edx.org/certificates/80f37e43839f49119ecca06cb0ec8f88) | The Linux Foundation (_Jul 2023_)
 - [Financial Markets (with Honors)](https://www.coursera.org/account/accomplishments/certificate/WWA8HC8A6M2N) | Yale School of Management (_Dec 2022_)
 - [The Science of Well-Being](https://www.coursera.org/account/accomplishments/certificate/YVJMVX74S9VA) | Yale University (_Jun 2020_)
 
@@ -24,16 +24,16 @@ Information Science is an interdisciplinary program combining elements from soci
 ## Experience
 
 **Graduate Research Assistant: Colorado Laboratory for Users, Media, and Networks (University of Colorado, Boulder)** (_Mar 2022 - May 2024_)
-- Conducted multi-platform, multi-coin analysis of 7 cryptocurrencies during market shocks using Python. Insights were utilized to propose broader research methodologies and refine predictive models for cryptocurrency market dynamics.  
-- Utilized data mining and network analysis on GameStop’s NFT Marketplace, producing an exploratory study on PESO marketing models versus decentralized tactics, leading to insights on consumer behavior in decentralized markets.
+- Conducted multi-platform analysis of 7 major cryptocurrencies during market shock events. Insights were utilized to propose broader research methodologies and refine predictive models for cryptocurrency market dynamics. 
+- Utilized data mining and network analysis on GameStop’s NFT Marketplace, producing an exploratory study on paid, earned, shared, and owned marketing models, leading to insights on consumer behavior in decentralized markets.
   
 **Developer (Intern): Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
-- Conducted in-depth market research for the DoD Small Business Innovation Research (SBIR) program, identifying key opportunities for enhancing secure data transmission, influencing R&D focus.
-- Developed localized large language models (LLMs) using Python, streamlining Air Force maintenance tasks by integrating PDFs into a custom UI, capable of a 20-60% reduction in task completion time.  
-- Designed a blockchain network prototype using Hyperledger and Go, facilitating secure data transmission between drones and operators via CLI, in collaboration with Microsoft and IBM partners.
+- Developed localized large language models (LLMs) using Python, streamlining Air Force maintenance tasks by integrating PDFs into a custom, queryable UI, capable of about 35% reduction in task completion time.
+- Designed a blockchain network prototype using Hyperledger and Go, facilitating secure data transmission between drones and operators via command-line interface, in collaboration with Microsoft and IBM partners.  
+- Conducted market research for the DoD Small Business Innovation Research (SBIR) program, identifying opportunities for enhancing secure data transmission, influencing R&D focus.
 
 **Public Relations Strategist (Intern): Imagination Videobooks/Storybooks** (_August 2022 – Dec 2022_)
-- Developed and executed a comprehensive PR plan, leveraging traditional and digital PR strategies, to expand the outreach of a local non-profit supporting inclusive reading tools.  
+- Developed and executed a comprehensive PR plan, leveraging traditional and digital PR strategies, to expand the outreach of a local non-profit supporting inclusive reading tools.    
 - Conducted demographic analysis using Python and Tableau, identifying 13 schools with high target populations, leading to increased outreach efforts for potential partnerships.
 
 _Student Roles_
