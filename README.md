@@ -10,7 +10,7 @@ _Honors_: Graduated with distinction, Dean's List
 
 _What is Information Science?_
 
-Information Science is an interdisciplinary program combining elements from social science, computer science, and humanities to have conceptual knowledge and technical skills needed to design and understand technology. There is a large focus on analyzing data, ideating technological possibilities, and creating innovative solutions. Areas of study include data science, human-computer interaction, information visualization, machine learning, technology ethics, and health informatics. 
+Information Science is an interdisciplinary program combining elements from social science, computer science, and humanities to have conceptual knowledge and technical skills needed to design, create, and understand technology. There is a large focus on analyzing data, communicating technical information to stakeholders, and creating innovative solutions. Areas of study include data science, human-computer interaction, information visualization, machine learning, and technology ethics. 
 
 
 ## Certificates
