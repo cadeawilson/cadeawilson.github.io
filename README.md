@@ -24,17 +24,17 @@ Information Science is an interdisciplinary program combining elements from soci
 ## Experience
 
 **Graduate Research Assistant: Colorado Laboratory for Users, Media, and Networks (University of Colorado, Boulder)** (_Mar 2022 - May 2024_)
-- Conducted multi-platform analysis of 7 major cryptocurrencies during market shock events. Insights were utilized to propose broader research methodologies and refine predictive models for cryptocurrency market dynamics. 
+- Conducted multi-platform social and financial analyses of major cryptocurrencies during market shock events. Insights were utilized to propose broader research methodologies and refine predictive models for cryptocurrency market dynamics. 
 - Utilized data mining and network analysis on GameStop’s NFT Marketplace, producing an exploratory study on paid, earned, shared, and owned marketing models, leading to insights on consumer behavior in decentralized markets.
   
 **Developer (Intern): Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
-- Developed localized large language models (LLMs) using Python, streamlining Air Force maintenance tasks by integrating PDFs into a custom, queryable UI, capable of about 35% reduction in task completion time.
+- Developed localized large language models (LLMs) using Python, streamlining Air Force maintenance tasks by integrating PDFs into a custom, queryable UI.
 - Designed a blockchain network prototype using Hyperledger and Go, facilitating secure data transmission between drones and operators via command-line interface, in collaboration with Microsoft and IBM partners.  
 - Conducted market research for the DoD Small Business Innovation Research (SBIR) program, identifying opportunities for enhancing secure data transmission, influencing R&D focus.
 
 **Public Relations Strategist (Intern): Imagination Videobooks/Storybooks** (_August 2022 – Dec 2022_)
 - Developed and executed a comprehensive PR plan, leveraging traditional and digital PR strategies, to expand the outreach of a local non-profit supporting inclusive reading tools.    
-- Conducted demographic analysis using Python and Tableau, identifying 13 schools with high target populations, leading to increased outreach efforts for potential partnerships.
+- Conducted demographic analysis using Python and Tableau, identifying schools with high target populations, leading to increased outreach efforts for potential partnerships.
 
 _Student Roles_
 
