@@ -8,44 +8,6 @@ _Honors_: Graduated with distinction, Dean’s List, Chancellor’s Achievement 
 - B.S. Public Relations | University of Colorado, Boulder (_Dec 2022_)
 _Honors_: Graduated with distinction, Dean's List
 
-_What is Information Science?_
-
-Information Science is an interdisciplinary program combining elements from social science, computer science, and humanities to have conceptual knowledge and technical skills needed to design, create, and understand technology. There is a large focus on analyzing data, communicating technical information to stakeholders, and creating innovative solutions. Areas of study include data science, human-computer interaction, information visualization, machine learning, and technology ethics. 
-
-
-## Certificates
-- Certified in Planning and Inventory Management (CPIM) | Association for Supply Chain Management (ASCM) (_In Progress_)
-- [Hyperledger Aries Developer Certification](https://courses.edx.org/certificates/e241341666264fcf8ac11ee9c57941e5) | The Linux Foundation (_Aug 2023_)
-- [Hyperledger Self-Sovereign Identity Certification](https://courses.edx.org/certificates/80f37e43839f49119ecca06cb0ec8f88) | The Linux Foundation (_Jul 2023_)
-- [Financial Markets (with Honors)](https://www.coursera.org/account/accomplishments/certificate/WWA8HC8A6M2N) | Yale School of Management (_Dec 2022_)
-- [The Science of Well-Being](https://www.coursera.org/account/accomplishments/certificate/YVJMVX74S9VA) | Yale University (_Jun 2020_)
-
-
-## Experience
-
-**Graduate Research Assistant: Colorado Laboratory for Users, Media, and Networks (University of Colorado, Boulder)** (_Mar 2022 - May 2024_)
-- Conducted multi-platform social and financial analyses of major cryptocurrencies during market shock events. Insights were utilized to propose broader research methodologies and refine predictive models for cryptocurrency market dynamics. 
-- Utilized data mining and network analysis on GameStop’s NFT Marketplace, producing an exploratory study on paid, earned, shared, and owned marketing models, leading to insights on consumer behavior in decentralized markets.
-  
-**Developer (Intern): Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
-- Developed localized large language models (LLMs) using Python, streamlining Air Force maintenance tasks by integrating PDFs into a custom, queryable UI.
-- Designed a blockchain network prototype using Hyperledger and Go, facilitating secure data transmission between drones and operators via command-line interface, in collaboration with Microsoft and IBM partners.  
-- Conducted market research for the DoD Small Business Innovation Research (SBIR) program, identifying opportunities for enhancing secure data transmission, influencing R&D focus.
-
-**Public Relations Strategist (Intern): Imagination Videobooks/Storybooks** (_August 2022 – Dec 2022_)
-- Developed and executed a comprehensive PR plan, leveraging traditional and digital PR strategies, to expand the outreach of a local non-profit supporting inclusive reading tools.    
-- Conducted demographic analysis using Python and Tableau, identifying schools with high target populations, leading to increased outreach efforts for potential partnerships.
-
-_Student Roles_
-
-**Grader: University of Colorado, Boulder** (_Sep 2023 - May 2024_)
-- Graded assignments for three upper-division classes (data visualization, data mining in Python) with 40-60 students, providing detailed feedback to enhance students' technical skills and understanding.
-
-**Learning Assistant: University of Colorado, Boulder** (_Apr 2021 - Dec 2021_)
-- Applied active learning techniques and facilitated group discussions to improve understanding of key concepts for 66 freshman students
-- Led discussions on communication, information science, media studies, and journalism, helping students critically analyze course material and apply concepts to real-world scenarios.
-
-
 ## Projects
 ### Information Science Master's Thesis: Beyond the Ledger: A Cross-Platform Analysis of Cryptocurrency Dynamics (_2024_)
 [Thesis](assets/pdf/MSThesis-WILSON.pdf)
@@ -158,3 +120,34 @@ Skills Highlighted:
 - Data visualization (Tableau)
 - Exploratory data analysis (EDA)
 - Marketing strategy evaluation for decentralized platforms
+
+## Experience
+
+**Graduate Research Assistant: Colorado Laboratory for Users, Media, and Networks (University of Colorado, Boulder)** (_Mar 2022 - May 2024_)
+- Conducted financial and social analyses of major cryptocurrencies during market shock events. Insights were utilized to propose broader research methodologies and refine forecasting models for cryptocurrency market dynamics.
+- Utilized data mining and decision science on GameStop’s NFT Marketplace, producing an exploratory study on paid, earned, shared, and owned marketing models, which led to data-driven solutions for decentralized product life cycles.
+  
+**Developer (Intern): Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
+- Conducted market research for the DoD Small Business Innovation Research (SBIR) program, identifying opportunities for enhancing secure data transmission, influencing R&D focus. 
+- Developed localized large language models (LLMs) using Python, streamlining Air Force maintenance tasks by integrating PDFs into a custom, queryable UI.
+- Designed a blockchain network prototype using Hyperledger and Go, facilitating secure data transmission between drones and operators, in collaboration with Microsoft and IBM partners.
+
+**Public Relations Strategist (Intern): Imagination Videobooks/Storybooks** (_August 2022 – Dec 2022_)
+- Developed and executed a comprehensive PR plan, leveraging traditional and digital PR strategies, to expand the outreach of a local non-profit supporting assistive reading technology.  
+- Conducted demographic analyses using Python and Tableau, identifying potential partners with high target populations, leading to increased outreach efforts for potential partnerships and product distribution.
+
+_Student Roles_
+
+**Grader: University of Colorado, Boulder** (_Sep 2023 - May 2024_)
+- Graded assignments for three upper-division classes (data visualization, data mining in Python) with 40-60 students, providing detailed feedback to enhance students' technical skills and understanding.
+
+**Learning Assistant: University of Colorado, Boulder** (_Apr 2021 - Dec 2021_)
+- Applied active learning techniques and facilitated group discussions to improve understanding of key concepts for 66 freshman students
+- Led discussions on communication, information science, media studies, and journalism, helping students critically analyze course material and apply concepts to real-world scenarios.
+
+## Certificates
+- Certified in Planning and Inventory Management (CPIM) | Association for Supply Chain Management (ASCM) (_In Progress_)
+- [Hyperledger Aries Developer Certification](https://courses.edx.org/certificates/e241341666264fcf8ac11ee9c57941e5) | The Linux Foundation (_Aug 2023_)
+- [Hyperledger Self-Sovereign Identity Certification](https://courses.edx.org/certificates/80f37e43839f49119ecca06cb0ec8f88) | The Linux Foundation (_Jul 2023_)
+- [Financial Markets (with Honors)](https://www.coursera.org/account/accomplishments/certificate/WWA8HC8A6M2N) | Yale School of Management (_Dec 2022_)
+- [The Science of Well-Being](https://www.coursera.org/account/accomplishments/certificate/YVJMVX74S9VA) | Yale University (_Jun 2020_)
