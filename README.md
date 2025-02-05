@@ -128,7 +128,7 @@ Skills Highlighted:
 - Utilized data mining and decision science on GameStop’s NFT Marketplace, producing an exploratory study on paid, earned, shared, and owned marketing models, which led to data-driven solutions for decentralized product life cycles.
   
 **Developer (Intern): Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
-- Conducted market research for the DoD Small Business Innovation Research (SBIR) program, identifying opportunities for enhancing secure data transmission, influencing R&D focus. 
+- Conducted market research for the DoD Small Business Innovation Research (SBIR) program, identifying opportunities for optimizing secure data transmission, influencing R&D focus. 
 - Developed localized large language models (LLMs) using Python, streamlining Air Force maintenance tasks by integrating PDFs into a custom, queryable UI.
 - Designed a blockchain network prototype using Hyperledger and Go, facilitating secure data transmission between drones and operators, in collaboration with Microsoft and IBM partners.
 
