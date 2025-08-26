@@ -123,6 +123,11 @@ Skills Highlighted:
 
 ## Experience
 
+**Customer Account Advisor: bet365** (_Mar 2025 - July 2025_)
+- Applied analytical thinking and internal tooling to identify patterns for assisting with fraud and risk mitigation. 
+- Communicated complex issues across support channels with clear documentation and escalation. 
+- Achieved mutually successful resolutions to client interactions.
+
 **Graduate Research Assistant: Colorado Laboratory for Users, Media, and Networks (University of Colorado, Boulder)** (_Mar 2022 - May 2024_)
 - Conducted financial and social analyses of major cryptocurrencies during market shock events. Insights were utilized to propose broader research methodologies and refine forecasting models for cryptocurrency market dynamics.
 - Utilized data mining and decision science on GameStop’s NFT Marketplace, producing an exploratory study on paid, earned, shared, and owned marketing models, which led to data-driven solutions for decentralized product life cycles.
