@@ -130,7 +130,7 @@ Skills Highlighted:
 
 **Graduate Research Assistant: Colorado Laboratory for Users, Media, and Networks (University of Colorado, Boulder)** (_Mar 2022 - May 2024_)
 - Conducted financial and social analyses of major cryptocurrencies during market shock events. Insights were utilized to propose broader research methodologies and refine forecasting models for cryptocurrency market dynamics.
-- Utilized data mining and decision science on GameStop’s NFT Marketplace, producing an exploratory study on paid, earned, shared, and owned marketing models, which led to data-driven solutions for decentralized product life cycles.
+- Utilized data mining and decision science on GameStop’s NFT Marketplace, producing an exploratory study on paid, earned, shared, and owned marketing models, which led to data-driven insights for decentralized product life cycles.
   
 **Developer (Intern): Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
 - Conducted market research for the DoD Small Business Innovation Research (SBIR) program, identifying opportunities for optimizing secure data transmission, influencing R&D focus. 
