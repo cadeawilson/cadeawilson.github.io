@@ -152,7 +152,7 @@ _Student Roles_
 
 ## Certificates
 - Certified in Planning and Inventory Management (CPIM) | Association for Supply Chain Management (ASCM) (_Test Pending_)
-- Gaming License - Pennsylvania Gaming Control Board (_Apr 2025_)
+- Gaming License | Pennsylvania Gaming Control Board (_Apr 2025_)
 - [Hyperledger Aries Developer Certification](https://courses.edx.org/certificates/e241341666264fcf8ac11ee9c57941e5) | The Linux Foundation (_Aug 2023_)
 - [Hyperledger Self-Sovereign Identity Certification](https://courses.edx.org/certificates/80f37e43839f49119ecca06cb0ec8f88) | The Linux Foundation (_Jul 2023_)
 - [Financial Markets (with Honors)](https://www.coursera.org/account/accomplishments/certificate/WWA8HC8A6M2N) | Yale School of Management (_Dec 2022_)
