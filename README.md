@@ -2,11 +2,11 @@
 
 ## Education
 - M.S. Information Science | University of Colorado, Boulder (_May 2024_)
-  - _Honors_: Master's Representative - Graduate Student Association (GSA)
+    - _Honors_: Master's Representative - Graduate Student Association (GSA)
 - B.S. Information Science | University of Colorado, Boulder (_May 2023_)
-  - _Honors_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
+    - _Honors_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
 - B.S. Strategic Communications - Public Relations | University of Colorado, Boulder (_Dec 2022_)
-  - _Honors_: Graduated with distinction, Dean's List
+    - _Honors_: Graduated with distinction, Dean's List
 
 ## Projects
 ### Information Science Master's Thesis: Beyond the Ledger: A Cross-Platform Analysis of Cryptocurrency Dynamics (_2024_)
