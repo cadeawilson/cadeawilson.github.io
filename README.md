@@ -3,10 +3,8 @@
 ## Education
 - M.S. Information Science | University of Colorado, Boulder (_May 2024_)
     - _Honors_: Master's Representative - Graduate Student Association (GSA)
-- B.S. Information Science | University of Colorado, Boulder (_May 2023_)
+- B.S. Information Science, B.S. Strategic Communications - Public Relations | University of Colorado, Boulder (_May 2023_)
     - _Honors_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
-- B.S. Strategic Communications - Public Relations | University of Colorado, Boulder (_Dec 2022_)
-    - _Honors_: Graduated with distinction, Dean's List
 
 ## Projects
 ### Information Science Master's Thesis: Beyond the Ledger: A Cross-Platform Analysis of Cryptocurrency Dynamics (_2024_)
@@ -94,7 +92,7 @@ _Skills Highlighted_:
 - Linear regression and time-series analysis
 - Python programming (Numpy, Scipy, Sklearn)
 
-### COLUMN Lab Research: Decentralized Markets Versus the PESO Model (_2022_)
+### Colorado Laboratory for Users, Media, and Networks Research: Decentralized Marketing Versus the PESO Model (_2022_)
 [Paper](assets/pdf/GameStopNFTMarketEDA-WILSON.pdf)
 
 This project examines the application and limitations of traditional marketing models, particularly the PESO Model (Paid, Earned, Shared, and Owned media), within decentralized markets. Focusing on the GameStop NFT Marketplace, which launched in July 2022, this exploratory data analysis (EDA) investigates the effectiveness of various marketing tactics used by NFT projects like MetaBoy and CYBER CREW [C4]. By analyzing social media activity on Twitter and Discord, the study aims to uncover how decentralized marketing frameworks diverge from traditional ones and whether the PESO Model requires adaptation in these new digital environments.
