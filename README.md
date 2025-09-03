@@ -2,11 +2,11 @@
 
 ## Education
 - M.S. Information Science | University of Colorado, Boulder (_May 2024_)
-_Honors_: Master's Representative - Graduate Student Association (GSA)
+  _Honors_: Master's Representative - Graduate Student Association (GSA)
 - B.S. Information Science | University of Colorado, Boulder (_May 2023_)
-_Honors_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
+  _Honors_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
 - B.S. Strategic Communications - Public Relations | University of Colorado, Boulder (_Dec 2022_)
-_Honors_: Graduated with distinction, Dean's List
+  _Honors_: Graduated with distinction, Dean's List
 
 ## Projects
 ### Information Science Master's Thesis: Beyond the Ledger: A Cross-Platform Analysis of Cryptocurrency Dynamics (_2024_)
@@ -97,7 +97,7 @@ _Skills Highlighted_:
 ### COLUMN Lab Research: Decentralized Markets Versus the PESO Model (_2022_)
 [Paper](assets/pdf/GameStopNFTMarketEDA-WILSON.pdf)
 
-This project examines the application and limitations of traditional marketing models, particularly the PESO Model (Paid, Earned, Shared, Owned), within decentralized markets. Focusing on the GameStop NFT Marketplace, which launched in July 2022, this exploratory data analysis (EDA) investigates the effectiveness of various marketing tactics used by NFT projects like MetaBoy and CYBER CREW [C4]. By analyzing social media activity on Twitter and Discord, the study aims to uncover how decentralized marketing frameworks diverge from traditional ones and whether the PESO Model requires adaptation in these new digital environments.
+This project examines the application and limitations of traditional marketing models, particularly the PESO Model (Paid, Earned, Shared, and Owned media), within decentralized markets. Focusing on the GameStop NFT Marketplace, which launched in July 2022, this exploratory data analysis (EDA) investigates the effectiveness of various marketing tactics used by NFT projects like MetaBoy and CYBER CREW [C4]. By analyzing social media activity on Twitter and Discord, the study aims to uncover how decentralized marketing frameworks diverge from traditional ones and whether the PESO Model requires adaptation in these new digital environments.
 
 _Methodology_:
 - _Data Collection_: Using Twitter API v2 and DiscordChatExporter, social media data was collected from the Twitter accounts and Discord servers of two NFT projects: MetaBoy and CYBER CREW [C4]. Metrics such as tweet engagement (retweets, favorites) and Discord activity (unique message authors, total messages) were gathered and organized into CSV files for analysis.
@@ -134,7 +134,7 @@ Skills Highlighted:
   
 **Developer (Intern): Colvin Run Networks, Inc** (_May 2023 - Feb 2024_)
 - Conducted market research for the DoD Small Business Innovation Research (SBIR) program, identifying opportunities for optimizing secure data transmission, influencing R&D focus. 
-- Developed localized large language models (LLMs) using Python, streamlining Air Force maintenance tasks by integrating PDFs into a custom, queryable UI.
+- Developed localized large language models (LLMs) using Python, streamlining Air Force maintenance tasks by integrating technical and maintenance documents into a custom, queryable UI.
 - Designed a blockchain network prototype using Hyperledger and Go, facilitating secure data transmission between drones and operators, in collaboration with Microsoft and IBM partners.
 
 **Public Relations Strategist (Intern): Imagination Videobooks/Storybooks** (_August 2022 – Dec 2022_)
