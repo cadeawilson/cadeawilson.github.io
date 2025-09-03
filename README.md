@@ -10,7 +10,7 @@
 
 ## Projects
 ### Information Science Master's Thesis: Beyond the Ledger: A Cross-Platform Analysis of Cryptocurrency Dynamics (_2024_)
-[Thesis](assets/pdf/MSThesis-WILSON.pdf)
+[Thesis](https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/df65v9764)
 
 This thesis explores the intricate dynamics between major cryptocurrencies and online platforms, focusing on how development, community activity, and market trends intersect. By collecting and analyzing data across platforms like GitHub, Reddit, and Discord, the project delves into how these platforms shape the development and social sentiment of cryptocurrencies such as Bitcoin, Ethereum, Solana, and Dogecoin. It also evaluates how market shocks, such as the Ethereum Merge and FTX collapse, impact these interactions and drive community and developer behavior.
 
