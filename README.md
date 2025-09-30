@@ -5,6 +5,12 @@
     - _Honors_: Master's Representative - Graduate Student Association (GSA)
 - B.S. Information Science, B.S. Strategic Communications - Public Relations | University of Colorado, Boulder (_May 2023_)
     - _Honors_: Graduated with distinction, Dean’s List, Chancellor’s Achievement Scholarship recipient
+ 
+## Certificates
+- [Certified in Planning and Inventory Management (CPIM)](https://www.credly.com/badges/5ee14149-0256-4fb2-8a78-9a4fdcd93b9c/public_url) | Association for Supply Chain Management (ASCM) (_Sep 2025_)
+- [Hyperledger Aries Developer Certification](https://courses.edx.org/certificates/e241341666264fcf8ac11ee9c57941e5) | The Linux Foundation (_Aug 2023_)
+- [Hyperledger Self-Sovereign Identity Certification](https://courses.edx.org/certificates/80f37e43839f49119ecca06cb0ec8f88) | The Linux Foundation (_Jul 2023_)
+- [Financial Markets (with Honors)](https://www.coursera.org/account/accomplishments/certificate/WWA8HC8A6M2N) | Yale School of Management (_Dec 2022_)
 
 ## Projects
 ### Information Science Master's Thesis: Beyond the Ledger: A Cross-Platform Analysis of Cryptocurrency Dynamics (_2024_)
@@ -147,11 +153,3 @@ _Student Roles_
 **Learning Assistant: University of Colorado, Boulder** (_Apr 2021 - Dec 2021_)
 - Applied active learning techniques and facilitated group discussions to improve understanding of key concepts for 66 freshman students
 - Led discussions on communication, information science, media studies, and journalism, helping students critically analyze course material and apply concepts to real-world scenarios.
-
-## Certificates
-- Certified in Planning and Inventory Management (CPIM) | Association for Supply Chain Management (ASCM) (_Test Pending_)
-- Gaming License | Pennsylvania Gaming Control Board (_Apr 2025_)
-- [Hyperledger Aries Developer Certification](https://courses.edx.org/certificates/e241341666264fcf8ac11ee9c57941e5) | The Linux Foundation (_Aug 2023_)
-- [Hyperledger Self-Sovereign Identity Certification](https://courses.edx.org/certificates/80f37e43839f49119ecca06cb0ec8f88) | The Linux Foundation (_Jul 2023_)
-- [Financial Markets (with Honors)](https://www.coursera.org/account/accomplishments/certificate/WWA8HC8A6M2N) | Yale School of Management (_Dec 2022_)
-- [The Science of Well-Being](https://www.coursera.org/account/accomplishments/certificate/YVJMVX74S9VA) | Yale University (_Jun 2020_)
